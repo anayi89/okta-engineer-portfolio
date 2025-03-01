@@ -1,7 +1,7 @@
 import requests
 
-url = "https://dev-67574834.okta.com"
-api_key = "00PgT4QKqojJlkVaSc-0cb1ZzO0PF7DwriMPQShNbB"
+url = "OKTA_ORG_URL"
+api_key = "OKTA_ADMIN_KEY"
 headers = {
     "Authorization": "SSWS " + api_key,
     "Accept": "application/json",
